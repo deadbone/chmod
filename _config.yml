@@ -31,11 +31,11 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Purpose ?
+  - title                                 : Purpose 
     description                           : Chmod : The ultimate octal helper is an utility to calculate the numeric (octal) value for a set of files or folder permissions in linux servers.
     fontawesome_icon_name                 : star
 
-  - title                                 : Most complete app !
+  - title                                 : Most complete app 
     description                           : You can set sticky bit, setuid ... You can even set the output ans so many other things
     fontawesome_icon_name                 : star
 
